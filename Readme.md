@@ -9,3 +9,8 @@
     
   * Windows
   * Linux 
+
+
+## ARCHIVED
+
+This program doesn't make sense anymore, cuz same concept is used in github cli now. 
